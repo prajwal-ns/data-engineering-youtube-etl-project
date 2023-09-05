@@ -32,7 +32,7 @@ Link: https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Transformations; pictorial representsation
 ![transformation](https://github.com/prajwal-ns/data-engineering-youtube-etl-project/assets/90051040/dd50b919-5ef3-4fae-ba4e-c3d5d9f86eff)
 
-Architecture Diagram
+## Architecture Diagram
 
 ![Data architecture](https://github.com/prajwal-ns/data-engineering-youtube-etl-project/assets/90051040/36d90e72-2eb7-4cd4-90e9-62ae433d0814)
 
